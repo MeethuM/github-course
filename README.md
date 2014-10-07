@@ -1,4 +1,4 @@
 learn-work
 ==========
 
-I am learning in my work
+I am learning while working
